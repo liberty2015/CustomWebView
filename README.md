@@ -1,0 +1,4 @@
+# CustomWebView
+实现了NestedScrollChild的WebView支持全屏翻转
+支持Video标签全屏翻转支持进度条
+支持进度条加载动画
